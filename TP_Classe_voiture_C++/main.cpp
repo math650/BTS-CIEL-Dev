@@ -1,8 +1,8 @@
 /**
- * @file main.cpp
- * @brief Programme principal de test pour CVoiture
- * @author Matheo - BTS CIEL
- * @date 05/10/2026
+ * main.cpp
+ * Programme principal de test pour CVoiture
+ * Matheo - BTS CIEL
+ * 05/10/2026
  */
 
 #include "voiture.h"
