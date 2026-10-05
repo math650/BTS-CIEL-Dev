@@ -1,8 +1,8 @@
 /**
- * @file voiture.cpp
- * @brief Definition des methodes de la classe CVoiture
- * @author Matheo - BTS CIEL
- * @date 05/10/2026
+ * voiture.cpp
+ * Definition des methodes de la classe CVoiture
+ * Matheo - BTS CIEL
+ * 05/10/2026
  */
 
 #include "voiture.h"
