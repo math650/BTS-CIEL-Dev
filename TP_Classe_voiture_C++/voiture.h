@@ -1,8 +1,8 @@
 /**
- * @file voiture.h
- * @brief Declaration de la classe CVoiture
- * @author Matheo - BTS CIEL
- * @date 05/10/2026
+ * voiture.h
+ * Declaration de la classe CVoiture
+ * Matheo - BTS CIEL
+ * 05/10/2026
  */
 
 #ifndef VOITURE_H
