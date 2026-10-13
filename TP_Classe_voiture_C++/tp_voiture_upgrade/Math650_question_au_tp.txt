@@ -1,0 +1,21 @@
+1) Nom, Prénom et lien du dépôt GitHub (Fork) : https://github.com/math650/tp_voiture2
+
+2) Qu'appelle-t-on l'encapsulation des données dans une classe en C++ ? Mettre l'information de la voiture par exemple dans une boîte fermée ; le but, c'est que l'encapsulation empêche de modifier ces données directement depuis l'extérieur et oblige à passer par des méthodes contrôlées.
+
+3) Quel est le rôle des mots-clés private et public dans votre classe CVoiture ? Le mot-clé public rend les méthodes accessibles depuis l'extérieur (par le programme principal), tandis que private cache les attributs et interdit leur modification directe depuis l'extérieur pour sécuriser les données.
+
+4) Pourquoi est-il conseillé de séparer le code dans deux fichiers distincts (CVoiture.h pour la déclaration et CVoiture.cpp pour l'implémentation) ? Pour rendre le code plus lisible, d'éviter des conflits et de le rendre moins lourd pour l'ordinateur grâce à la compilation séparée.
+
+5) Comment appelle-t-on la méthode spéciale appelée automatiquement lors de la création d'un objet ? On l'appelle le constructeur.
+
+6) À quoi servent les méthodes de type getter (accesseurs) ?
+
+7) Dans la méthode déplacer, comment avez-vous calculé la distance parcourue à partir des variations deltaX et deltaY ? calculé la distance parcourue en appliquant le théorème de Pythagore sur les variations de position (X et Y), en utilisant la formule de la racine carrée de la somme des carrés.
+
+8) Quelle est la différence entre un attribut d'instance (propre à chaque objet) et une variable locale dans une fonction ?
+
+9) Sous Visual Studio ou VS Code, comment fait-on pour placer un point d'arrêt (breakpoint) dans le code ? Il suffit de cliquer dans la marge (juste à gauche du numéro de la ligne) pour faire apparaître un petit point rouge qui sert de point d'arrêt.
+
+10) Quel message d'erreur le compilateur affiche-t-il si vous oubliez d'inclure le fichier .h dans le fichier .cpp ? il marqué en rouge tout se qui n'est pas déclaré et que le code ne peut pas le lire.
+
+11) Qu'avez-vous trouvé le plus simple et le plus difficile lors de la réalisation de ce TP ? le plus difficile, la question 6 et 8.
